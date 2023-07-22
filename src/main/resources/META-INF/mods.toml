@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Pineapple"
+[[mods]]
+    modId="ims"
+    version="${file.jarVersion}"
+    displayName=""
+    logoFile=""
+    credits="Someoneice"
+    authors="Someoneice"
+    description='''
+    '''
+
+[[dependencies.ims]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.ims]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"

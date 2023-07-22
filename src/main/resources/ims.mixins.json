@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "club.someoneice.ims.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "ims.refmap.json",
+  "mixins": [
+    "BiomeMixin",
+    "SeasonHookMixin"
+  ],
+
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
