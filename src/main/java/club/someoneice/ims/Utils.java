@@ -11,6 +11,7 @@ import net.minecraft.world.level.biome.Biome;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.state.BlockState;
 
+/*
 public class Utils {
     private static final int SET_BLOCK_FLAGS = 2 | 16;
 
@@ -40,3 +41,4 @@ public class Utils {
         } else return false;
     }
 }
+*/
